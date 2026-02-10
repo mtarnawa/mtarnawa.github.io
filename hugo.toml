@@ -1,0 +1,36 @@
+baseURL = 'https://mtarnawa.org/'
+languageCode = 'en-us'
+title = 'Mateusz Tarnawa'
+theme = "black-and-light"
+
+author = "Mateusz Tarnawa"
+canonifyurls = true
+
+pygmentsUseClassic            = true
+pygmentsCodeFences            = true
+pygmentsCodeFencesGuessSyntax = true
+pygmentsUseClasses            = true
+
+#[module]
+#  [[module.imports]]
+#    path = 'github.com/hugomods/images'
+
+[params]
+  sitename = "Mateusz Tarnawa"
+  disableWebFonts = false
+
+[[menu.main]]
+    name = "Blog"
+    url  = "/"
+[[menu.main]]
+    name = "About"
+    url  = "/about/"
+[[menu.main]]
+    name = "Flickr"
+    url  = "https://www.flickr.com/photos/204114481@N08/"
+[[menu.main]]
+    name = "Linkedin"
+    url  = "https://www.linkedin.com/in/mtarnawa/"
+[[menu.main]]
+    name = "Github"
+    url  = "https://github.com/mtarnawa"
