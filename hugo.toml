@@ -18,6 +18,7 @@ pygmentsUseClasses            = true
 [params]
   sitename = "Mateusz Tarnawa"
   disableWebFonts = false
+  dateFormat = "2 January 2006"
 
 [[menu.main]]
     name = "Blog"
