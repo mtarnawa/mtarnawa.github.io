@@ -34,3 +34,7 @@ pygmentsUseClasses            = true
 [[menu.main]]
     name = "Github"
     url  = "https://github.com/mtarnawa"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
