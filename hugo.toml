@@ -11,6 +11,9 @@ pygmentsCodeFences            = true
 pygmentsCodeFencesGuessSyntax = true
 pygmentsUseClasses            = true
 
+[markup.goldmark.renderer]
+   unsafe = true
+
 [services]
   [services.disqus]
     shortname = 'mtarnawa'
