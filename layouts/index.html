@@ -2,7 +2,7 @@
 
 <section id="content">
     <ul class="posts_listing">
-        {{ range .Site.RegularPages }} {{ if ne .Params.indexed_page false }}
+        {{ range .Site.RegularPages }} {{ if ne .Params.skip_page true }}
         <li>
             <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
             <div class="date">

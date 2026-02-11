@@ -2,7 +2,12 @@
 list = false
 title = 'About'
 linktitle = 'about'
-indexed_page = false
+skip_page = true
 +++
 
-Hi!
+Hi! Thanks for visiting! 
+
+If you want to get in touch, you can reach me here:
+
+* Email: **mjtarnawa(at)icloud.com**
+* Signal: **countxmeout.88**
