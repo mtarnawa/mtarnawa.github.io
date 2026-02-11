@@ -31,4 +31,4 @@ Yet she understands the magnitude of what she built to date. As she said herself
 
 ## The End
 
-The ending is an "ending", as bittersweet as it can. An ending to the story of Nora and Hae Sung, but also an ending to their past lives. At the end, it seems she's letting go of the last childhood dream remaining. Her bursting into tears is probably magnified by the realization that she is not only severing her ties to Hae Sung, but also finally abandoning her childhood ambitions.
+The ending is an "ending", as bittersweet as it can be it's simply a conclusion, a final closure. It's an ending to the story of Nora and Hae Sung, but also an ending to their past lives. Nora, as she burst into tears, seems to be letting go of the last childhood dream remaining - the reaction magnified by the realization that she is not only severing her ties to Hae Sung, but also finally abandoning her childhood ambitions.
