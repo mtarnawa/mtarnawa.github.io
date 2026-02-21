@@ -20,7 +20,7 @@ pygmentsUseClasses            = true
 
 [params]
   sitename = "Mateusz Tarnawa"
-  description = "Personal blog by Mateusz Tarnawa — writing about film, photography, and software."
+  description = "Personal blog by Mateusz Tarnawa — writing about film, music, photography, books and software."
   disableWebFonts = false
   dateFormat = "2 January 2006"
 
@@ -43,3 +43,9 @@ pygmentsUseClasses            = true
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.parser]
+      [markup.goldmark.parser.attribute]
+        block = true
+        title = true

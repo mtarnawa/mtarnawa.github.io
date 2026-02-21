@@ -8,8 +8,8 @@
 
     {{ if .Params.date }}
     <div id="sub-header">
-        {{ .Date.Format (.Site.Params.dateform | default "January 2006") }} · {{
-        .ReadingTime }} minute read
+        {{ .Date.Format (.Site.Params.dateformat | default "2 January 2006") }}
+        · {{ .ReadingTime }} minute read
     </div>
     {{ end }}
 
