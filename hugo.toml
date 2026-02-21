@@ -20,6 +20,7 @@ pygmentsUseClasses            = true
 
 [params]
   sitename = "Mateusz Tarnawa"
+  description = "Personal blog by Mateusz Tarnawa — writing about film, photography, and software."
   disableWebFonts = false
   dateFormat = "2 January 2006"
 

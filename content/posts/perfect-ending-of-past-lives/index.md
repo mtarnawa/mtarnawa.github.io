@@ -2,6 +2,7 @@
 date = '2026-02-10T10:04:35+01:00'
 draft = false
 title = 'The perfect ending of "Past Lives" (2023)'
+description = "A close reading of the bar scene and farewell in Celine Song's Past Lives — how camerawork, gesture, and silence carry the film's emotional weight."
 +++
 
 
