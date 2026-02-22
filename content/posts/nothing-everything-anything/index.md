@@ -1,6 +1,6 @@
 +++
-date = '2026-02-14T13:14:12+01:00'
-draft = true
+date = '2026-02-22T13:14:12+01:00'
+draft = false
 title = '-thing...'
 description = 'A poem about nothing, anything, and everything.'
 +++
