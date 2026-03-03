@@ -23,6 +23,11 @@ pygmentsUseClasses            = true
   description = "Personal blog by Mateusz Tarnawa — writing about film, music, photography, books and software."
   disableWebFonts = false
   dateFormat = "2 January 2006"
+  [params.services]
+    [params.services.umami_analytics]
+      id = '8b2f4a06-ecf4-45c4-838f-5c978ca43f68'
+      script_url = 'https://cloud.umami.is/script.js'
+
 
 [[menu.main]]
     name = "Blog"
@@ -49,3 +54,6 @@ pygmentsUseClasses            = true
       [markup.goldmark.parser.attribute]
         block = true
         title = true
+[module]
+  [[module.imports]]
+    path = 'github.com/hugomods/umami-analytics'

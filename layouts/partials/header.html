@@ -11,6 +11,9 @@
     <meta name="description" content="{{ $description }}">
     <meta name="author" content="{{ .Site.Author.name | default .Site.Title }}">
 
+
+    {{ partialCached "hugomods/umami-analytics/index" . .Params.analyze }}
+
     {{- /* OpenGraph */ -}}
     <meta property="og:site_name" content="{{ .Site.Title }}">
     <meta property="og:url" content="{{ .Permalink }}">
